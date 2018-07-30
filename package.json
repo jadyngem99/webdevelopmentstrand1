@@ -1,12 +1,14 @@
 {
-    "name": "Web-Development Strand 1",
-    "version": "0.1.0",
-    "description": "Add later if needed.",
-    "main": "index.html",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "dependencies": {
-        "gulp": "^3.9.1"
-    }
+  "name": "web-development-strand-1",
+  "version": "0.1.0",
+  "description": "Add later if needed.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1"
+  }
 }
