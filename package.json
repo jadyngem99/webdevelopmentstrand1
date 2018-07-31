@@ -1,6 +1,9 @@
 {
   "name": "web-development-strand-1",
   "version": "0.1.0",
+  "engines": {
+    "node": "10.4.0"
+  },
   "description": "Add later if needed.",
   "main": "index.html",
   "scripts": {
